@@ -423,6 +423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
+  strafeSpeed: 10
 --- !u!54 &1904856742
 Rigidbody:
   m_ObjectHideFlags: 0
