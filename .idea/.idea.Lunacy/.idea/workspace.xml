@@ -89,33 +89,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseLook.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+            <state relative-caret-position="105">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
-                <marker date="1555710038000" expanded="false" signature="6:78" ph="..." />
-                <marker date="1555710038000" expanded="true" signature="119:1091" ph="{...}" />
-                <marker date="1555710038000" expanded="true" signature="339:400" ph="{...}" />
-                <marker date="1555710038000" expanded="true" signature="459:1089" ph="{...}" />
+                <marker date="1555811772708" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555811772708" expanded="true" signature="119:1128" ph="{...}" />
+                <marker date="1555811772708" expanded="true" signature="361:423" ph="{...}" />
+                <marker date="1555811772708" expanded="true" signature="490:1126" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="225">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1555811663469" expanded="false" signature="6:78" ph="..." />
-                <marker date="1555811663469" expanded="true" signature="125:964" ph="{...}" />
-                <marker date="1555811663469" expanded="true" signature="293:381" ph="{...}" />
-                <marker date="1555811663469" expanded="true" signature="447:962" ph="{...}" />
-                <marker date="1555811663469" expanded="true" signature="697:800" ph="{...}" />
-                <marker date="1555811663469" expanded="true" signature="852:956" ph="{...}" />
+                <marker date="1555811775094" expanded="false" signature="6:78" ph="..." />
+                <marker date="1555811775094" expanded="true" signature="125:963" ph="{...}" />
+                <marker date="1555811775094" expanded="true" signature="293:381" ph="{...}" />
+                <marker date="1555811775094" expanded="true" signature="447:961" ph="{...}" />
+                <marker date="1555811775094" expanded="true" signature="696:799" ph="{...}" />
+                <marker date="1555811775094" expanded="true" signature="851:955" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,8 +134,8 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseLook.cs" />
       </list>
     </option>
   </component>
@@ -144,6 +144,7 @@
     <option name="width" value="979" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -332,30 +333,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseLook.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        <state relative-caret-position="225">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1555710038000" expanded="false" signature="6:78" ph="..." />
-            <marker date="1555710038000" expanded="true" signature="119:1091" ph="{...}" />
-            <marker date="1555710038000" expanded="true" signature="339:400" ph="{...}" />
-            <marker date="1555710038000" expanded="true" signature="459:1089" ph="{...}" />
+            <marker date="1555811775094" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555811775094" expanded="true" signature="125:963" ph="{...}" />
+            <marker date="1555811775094" expanded="true" signature="293:381" ph="{...}" />
+            <marker date="1555811775094" expanded="true" signature="447:961" ph="{...}" />
+            <marker date="1555811775094" expanded="true" signature="696:799" ph="{...}" />
+            <marker date="1555811775094" expanded="true" signature="851:955" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseLook.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="105">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
-            <marker date="1555811663469" expanded="false" signature="6:78" ph="..." />
-            <marker date="1555811663469" expanded="true" signature="125:964" ph="{...}" />
-            <marker date="1555811663469" expanded="true" signature="293:381" ph="{...}" />
-            <marker date="1555811663469" expanded="true" signature="447:962" ph="{...}" />
-            <marker date="1555811663469" expanded="true" signature="697:800" ph="{...}" />
-            <marker date="1555811663469" expanded="true" signature="852:956" ph="{...}" />
+            <marker date="1555811772708" expanded="false" signature="6:78" ph="..." />
+            <marker date="1555811772708" expanded="true" signature="119:1128" ph="{...}" />
+            <marker date="1555811772708" expanded="true" signature="361:423" ph="{...}" />
+            <marker date="1555811772708" expanded="true" signature="490:1126" ph="{...}" />
           </folding>
         </state>
       </provider>
