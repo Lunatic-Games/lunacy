@@ -26,6 +26,11 @@ public class MouseLook : MonoBehaviour {
         _smoothV.y = Mathf.Lerp(_smoothV.y, moveDirection.y, 1f / smoothing);
         _mouseLook += _smoothV;
         
+        if (_mouseLook.y > 90)
+            _mouseLook.y = 90;
+        if (_mouseLook.y < -90)
+            _mouseLook.y = -90;
+
         transform.localRotation = Quaternion.AngleAxis(-_mouseLook.y, Vector3.right);
         _character.transform.localRotation = Quaternion.AngleAxis(_mouseLook.x, _character.transform.up);
     }
