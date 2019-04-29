@@ -1,0 +1,3 @@
+No clamp on cameras vertical movement (Able to do 360 spins by looking up constantly)
+
+Networking is totally fucked atm
